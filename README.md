@@ -1,2 +1,2 @@
 # python_for_biologist
-Teaching python for biologists 
+A Basic Python course for Biologists 
